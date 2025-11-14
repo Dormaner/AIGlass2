@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of 完全体AI眼镜开发",
+  "description": "An AI-powered English speaking practice partner with a cyberpunk theme. It uses your camera to start context-aware conversations, provides real-time bilingual subtitles with phonetic notations for difficult words, and offers a fully immersive, voice-interactive learning experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
